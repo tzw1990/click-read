@@ -6,3 +6,6 @@ this chrome plugin is designed for chrome, when you find some website you are ve
 
 ## Technology consideration
 
+
+### Reference
+https://www.youtube.com/watch?v=rNkfs8-uRTE&list=PL955CCD754417DC97
